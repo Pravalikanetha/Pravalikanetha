@@ -6,8 +6,13 @@ I am a Computer Science and engineering student , currently pursuing my bachelor
 at MNR college of engineering and Technology.
 
 Known languages:
-- Html
-- CSS
-- Javascript
-- ReactJS
-- NodeJS
+- HTML (Intermediate)
+- CSS (Intermediate)
+- JAVASCRIPT (Basics)
+- JQUERY (Intermediate)
+
+Database:
+- MYSQL (basics)
+
+Frame work :
+- BOOTSTRAP (Intermediate)
