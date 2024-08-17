@@ -7,8 +7,7 @@ Known languages:
 - CSS (Intermediate)
 - JAVASCRIPT (Basics)
 - REACTJS (Basics)
-- JQUERY (Intermediate)
-- PYTHON (Basics)
+- JAVA (Basics)
 
 Database:
 - MYSQL (basics)
