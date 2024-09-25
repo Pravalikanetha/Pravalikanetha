@@ -3,14 +3,9 @@
 Hola!! , I'm Pravalikanetha 👋
 
 Known languages:
-- HTML (Intermediate)
-- CSS (Intermediate)
-- JAVASCRIPT (Basics)
-- REACTJS (Basics)
-- JAVA (Basics)
+- Java (Advance)
+- SpringBoot (Intermediate)
+- Hibernate (Basics)
 
 Database:
-- MYSQL (basics)
-
-Frame work :
-- BOOTSTRAP (Intermediate)
+- MYSQL (Intermediate)
