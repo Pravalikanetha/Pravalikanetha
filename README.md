@@ -5,8 +5,8 @@ Hola!! , I'm Pravalikanetha 👋
 Known languages:
 - Java (Advance)
 - SpringBoot (Intermediate)
-- JDBC (Basics)
-- Redis(Intermediate)
+- JDBC 
+- Redis
 
 Database:
 - MYSQL (Intermediate)
